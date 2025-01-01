@@ -2,9 +2,9 @@
   "date": "2025-01-01",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 606,
+      "totalLinesAdded": 612,
       "totalLinesRemoved": 44,
-      "totalActiveTime": 96,
+      "totalActiveTime": 101,
       "files": {
         "h:\\StudioProject\\uber_clone\\android\\settings.gradle": [
           {
@@ -492,6 +492,38 @@
             "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
             "fileType": ".dart",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T20:25:38.121Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T20:26:15.037Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T20:27:09.502Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T20:29:32.162Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "uber_clone"
           }
