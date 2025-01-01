@@ -3,7 +3,7 @@
   "projects": {
     "uber_clone": {
       "totalLinesAdded": 599,
-      "totalLinesRemoved": 40,
+      "totalLinesRemoved": 44,
       "totalActiveTime": 95,
       "files": {
         "h:\\StudioProject\\uber_clone\\android\\settings.gradle": [
@@ -469,6 +469,14 @@
             "fileType": ".dart",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T19:59:22.809Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "uber_clone"
           }
         ],
