@@ -2,9 +2,9 @@
   "date": "2025-01-01",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 249,
-      "totalLinesRemoved": 13,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 262,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 25,
       "files": {
         "h:\\StudioProject\\uber_clone\\android\\settings.gradle": [
           {
@@ -133,6 +133,62 @@
             "fileType": ".dart",
             "linesAdded": 0,
             "linesRemoved": 7,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T18:41:07.498Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T18:41:39.328Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T18:43:00.401Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T18:43:13.841Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T18:43:59.064Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T18:44:36.242Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T18:44:40.736Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "uber_clone"
           }
         ]
