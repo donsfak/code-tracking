@@ -2,9 +2,9 @@
   "date": "2025-01-01",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 76,
+      "totalLinesAdded": 132,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 9,
+      "totalActiveTime": 10,
       "files": {
         "h:\\StudioProject\\uber_clone\\android\\settings.gradle": [
           {
@@ -47,6 +47,24 @@
             "fileType": ".gradle",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "uber_clone"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml": [
+          {
+            "timestamp": "2025-01-01T18:07:01.447Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-01T18:07:13.858Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "uber_clone"
           }
         ]
