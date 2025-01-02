@@ -2,7 +2,7 @@
   "date": "2025-01-02",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 278,
+      "totalLinesAdded": 280,
       "totalLinesRemoved": 27,
       "totalActiveTime": 50,
       "files": {
@@ -196,6 +196,14 @@
             "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
             "fileType": ".dart",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-02T01:34:31.081Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "uber_clone"
           }
