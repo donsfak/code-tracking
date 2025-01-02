@@ -335,9 +335,9 @@
       }
     },
     "maps_clone": {
-      "totalLinesAdded": 70,
+      "totalLinesAdded": 96,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 9,
       "files": {
         "h:\\StudioProject\\maps_clone\\ios\\Runner\\AppDelegate.swift": [
           {
@@ -387,6 +387,16 @@
             "fileName": "h:\\StudioProject\\maps_clone\\ios\\Runner\\Info.plist",
             "fileType": ".plist",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\android\\settings.gradle": [
+          {
+            "timestamp": "2025-01-02T03:15:24.407Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 26,
             "linesRemoved": 0,
             "projectName": "maps_clone"
           }
