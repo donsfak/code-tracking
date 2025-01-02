@@ -335,9 +335,9 @@
       }
     },
     "maps_clone": {
-      "totalLinesAdded": 103,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 287,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 18,
       "files": {
         "h:\\StudioProject\\maps_clone\\ios\\Runner\\AppDelegate.swift": [
           {
@@ -416,6 +416,66 @@
             "timestamp": "2025-01-02T03:31:22.691Z",
             "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\.env",
             "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\lib\\main.dart": [
+          {
+            "timestamp": "2025-01-02T03:32:53.921Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:33:21.186Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:35:07.616Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:35:50.809Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "maps_clone"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart": [
+          {
+            "timestamp": "2025-01-02T03:33:49.251Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 160,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:33:57.163Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:36:08.467Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
             "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "maps_clone"
