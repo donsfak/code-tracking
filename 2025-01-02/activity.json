@@ -336,7 +336,7 @@
     },
     "maps_clone": {
       "totalLinesAdded": 445,
-      "totalLinesRemoved": 4,
+      "totalLinesRemoved": 6,
       "totalActiveTime": 34,
       "files": {
         "h:\\StudioProject\\maps_clone\\ios\\Runner\\AppDelegate.swift": [
@@ -448,6 +448,14 @@
           },
           {
             "timestamp": "2025-01-02T03:35:50.809Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:52:16.264Z",
             "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
             "fileType": ".dart",
             "linesAdded": 0,
