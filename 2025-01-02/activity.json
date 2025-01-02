@@ -335,9 +335,9 @@
       }
     },
     "maps_clone": {
-      "totalLinesAdded": 346,
+      "totalLinesAdded": 445,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 25,
+      "totalActiveTime": 34,
       "files": {
         "h:\\StudioProject\\maps_clone\\ios\\Runner\\AppDelegate.swift": [
           {
@@ -511,6 +511,50 @@
             "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
             "fileType": ".gradle",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:43:25.270Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:46:11.520Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\.gitignore": [
+          {
+            "timestamp": "2025-01-02T03:44:51.314Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:44:56.784Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\android\\app\\src\\main\\AndroidManifest.xml": [
+          {
+            "timestamp": "2025-01-02T03:46:54.049Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 50,
             "linesRemoved": 0,
             "projectName": "maps_clone"
           }
