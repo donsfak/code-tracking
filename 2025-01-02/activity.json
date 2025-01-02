@@ -335,9 +335,9 @@
       }
     },
     "maps_clone": {
-      "totalLinesAdded": 287,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 346,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 25,
       "files": {
         "h:\\StudioProject\\maps_clone\\ios\\Runner\\AppDelegate.swift": [
           {
@@ -477,6 +477,40 @@
             "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
             "fileType": ".dart",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:38:47.372Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "maps_clone"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle": [
+          {
+            "timestamp": "2025-01-02T03:40:02.351Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:40:05.200Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:40:52.423Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "maps_clone"
           }
