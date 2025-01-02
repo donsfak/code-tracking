@@ -335,7 +335,7 @@
       }
     },
     "maps_clone": {
-      "totalLinesAdded": 68,
+      "totalLinesAdded": 70,
       "totalLinesRemoved": 0,
       "totalActiveTime": 4,
       "files": {
@@ -376,6 +376,14 @@
           },
           {
             "timestamp": "2025-01-02T03:04:54.226Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\ios\\Runner\\Info.plist",
+            "fileType": ".plist",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          },
+          {
+            "timestamp": "2025-01-02T03:10:27.720Z",
             "fileName": "h:\\StudioProject\\maps_clone\\ios\\Runner\\Info.plist",
             "fileType": ".plist",
             "linesAdded": 2,
