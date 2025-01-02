@@ -335,7 +335,7 @@
       }
     },
     "maps_clone": {
-      "totalLinesAdded": 102,
+      "totalLinesAdded": 103,
       "totalLinesRemoved": 0,
       "totalActiveTime": 9,
       "files": {
@@ -407,6 +407,16 @@
             "fileName": "h:\\StudioProject\\maps_clone\\android\\local.properties",
             "fileType": ".properties",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "maps_clone"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\android\\app\\.env": [
+          {
+            "timestamp": "2025-01-02T03:31:22.691Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "maps_clone"
           }
