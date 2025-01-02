@@ -2,9 +2,9 @@
   "date": "2025-01-02",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 270,
-      "totalLinesRemoved": 21,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 277,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 43,
       "files": {
         "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart": [
           {
@@ -166,6 +166,14 @@
             "linesAdded": 0,
             "linesRemoved": 1,
             "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-02T01:15:39.963Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "uber_clone"
           }
         ],
         "h:\\StudioProject\\uber_clone\\lib\\consts.dart": [
@@ -193,6 +201,14 @@
             "fileType": "unknown",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-02T01:14:21.087Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "uber_clone"
           }
         ],
@@ -227,6 +243,32 @@
             "timestamp": "2025-01-02T01:11:05.547Z",
             "fileName": "h:\\StudioProject\\uber_clone\\.gitignore",
             "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone\\android\\local.properties": [
+          {
+            "timestamp": "2025-01-02T01:14:36.013Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\local.properties",
+            "fileType": ".properties",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-02T01:14:43.497Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\local.properties",
+            "fileType": ".properties",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone"
+          },
+          {
+            "timestamp": "2025-01-02T01:14:55.026Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\local.properties",
+            "fileType": ".properties",
             "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "uber_clone"
