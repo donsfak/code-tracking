@@ -3,8 +3,8 @@
   "projects": {
     "trackers_app": {
       "totalLinesAdded": 149,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
       "files": {
         "h:\\StudioProject\\trackers_app\\lib\\screens\\home_screen.dart": [
           {
@@ -60,6 +60,25 @@
             },
             "language": "dart",
             "changeType": "create",
+            "functionChanges": {
+              "added": [],
+              "modified": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-04T23:28:48.262Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\widgets\\display_white_text.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "language": "dart",
+            "changeType": "delete",
             "functionChanges": {
               "added": [],
               "modified": [],
