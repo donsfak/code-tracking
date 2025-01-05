@@ -1,0 +1,90 @@
+{
+  "date": "2025-01-05",
+  "projects": {
+    "trackers_app": {
+      "totalLinesAdded": 83,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-01-05T23:02:48.086Z",
+            "fileName": "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "language": "json",
+            "changeType": "create",
+            "functionChanges": {
+              "added": [],
+              "modified": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-05T23:03:36.139Z",
+            "fileName": "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "language": "json",
+            "changeType": "create",
+            "functionChanges": {
+              "added": [],
+              "modified": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-05T23:06:31.843Z",
+            "fileName": "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "language": "json",
+            "changeType": "create",
+            "functionChanges": {
+              "added": [],
+              "modified": [],
+              "removed": []
+            }
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 83
+      },
+      "changeFrequency": {
+        "23": 3
+      },
+      "topFiles": [
+        "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 27.666666666666668
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
