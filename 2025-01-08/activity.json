@@ -3,7 +3,7 @@
   "projects": {
     "maps_clone": {
       "totalLinesAdded": 86,
-      "totalLinesRemoved": 2,
+      "totalLinesRemoved": 3,
       "totalActiveTime": 5,
       "files": {
         "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json": [
@@ -89,6 +89,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-08T14:17:04.856Z",
+            "fileName": "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
