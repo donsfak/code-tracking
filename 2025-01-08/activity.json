@@ -2,7 +2,7 @@
   "date": "2025-01-08",
   "projects": {
     "maps_clone": {
-      "totalLinesAdded": 86,
+      "totalLinesAdded": 246,
       "totalLinesRemoved": 3,
       "totalActiveTime": 5,
       "files": {
@@ -104,6 +104,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart": [
+          {
+            "timestamp": "2025-01-08T20:49:35.478Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 160,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
           }
         ]
       },
