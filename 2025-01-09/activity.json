@@ -2,9 +2,9 @@
   "date": "2025-01-09",
   "projects": {
     "maps_clone": {
-      "totalLinesAdded": 195,
+      "totalLinesAdded": 385,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 2,
+      "totalActiveTime": 3,
       "files": {
         "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart": [
           {
@@ -61,6 +61,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-09T01:44:10.165Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 188,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-09T01:44:11.539Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],
