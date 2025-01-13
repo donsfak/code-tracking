@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 476                                          |
-| **Lines Removed** (➖) | 203                                        |
-| **Net Change** (↕)    | 273                |
+| **Lines Removed** (➖) | 204                                        |
+| **Net Change** (↕)    | 272                |
 | **Active Time** (⌚)   | 65 minutes |
 
 
@@ -15,7 +15,7 @@
 - **my_heatmap.dart** (+45, -7)
 - **home_screen.dart** (+339, -185)
 - **showBottomSheet.dart** (+38, -0)
-- **showBottomSheet.dart** (+52, -11)
+- **showBottomSheet.dart** (+52, -12)
 
 ## Visualizations
 
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 679
+".dart" : 680
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "18h" : 41
-"19h" : 7
+"19h" : 8
 ```
 
 
-> **Last Updated:** 1/13/2025, 7:11:00 PM
+> **Last Updated:** 1/13/2025, 7:26:00 PM
