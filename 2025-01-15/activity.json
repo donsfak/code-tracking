@@ -2,9 +2,9 @@
   "date": "2025-01-15",
   "projects": {
     "trackers_app": {
-      "totalLinesAdded": 411,
-      "totalLinesRemoved": 57,
-      "totalActiveTime": 19,
+      "totalLinesAdded": 417,
+      "totalLinesRemoved": 113,
+      "totalActiveTime": 29,
       "files": {
         "h:\\StudioProject\\trackers_app\\lib\\data\\models\\task.dart": [
           {
@@ -108,6 +108,48 @@
             },
             "duration": 5,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-15T16:38:45.469Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\heatmap_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-15T16:39:17.994Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\heatmap_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-15T16:41:51.132Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\heatmap_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\trackers_app\\lib\\components\\my_heatmap.dart": [
@@ -179,6 +221,48 @@
               "removed": []
             },
             "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-15T16:38:45.477Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\components\\my_heatmap.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-15T16:39:26.196Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\components\\my_heatmap.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 43,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-15T16:42:18.807Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\components\\my_heatmap.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ]
