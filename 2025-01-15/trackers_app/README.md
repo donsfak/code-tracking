@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1174                                          |
-| **Lines Removed** (➖) | 347                                        |
-| **Net Change** (↕)    | 827                |
-| **Active Time** (⌚)   | 102 minutes |
+| **Lines Added** (➕)   | 1228                                          |
+| **Lines Removed** (➖) | 436                                        |
+| **Net Change** (↕)    | 792                |
+| **Active Time** (⌚)   | 109 minutes |
 
 
 ## Modified Files
@@ -19,9 +19,9 @@
 - **display_list_of_tasks.dart** (+96, -6)
 - **route_location.dart** (+12, -0)
 - **app_routes.dart** (+32, -0)
-- **modify_task_screen.dart** (+297, -156)
+- **modify_task_screen.dart** (+312, -206)
 - **helpers.dart** (+67, -0)
-- **task_provider.dart** (+17, -8)
+- **task_provider.dart** (+56, -47)
 
 ## Visualizations
 
@@ -30,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 1521
+".dart" : 1664
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +39,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 28
-"17h" : 32
+"17h" : 38
 ```
 
 
-> **Last Updated:** 1/15/2025, 5:48:03 PM
+> **Last Updated:** 1/15/2025, 5:53:03 PM
