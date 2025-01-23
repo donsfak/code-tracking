@@ -2,9 +2,9 @@
   "date": "2025-01-23",
   "projects": {
     "trackers_app": {
-      "totalLinesAdded": 311,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 10,
+      "totalLinesAdded": 339,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 21,
       "files": {
         "h:\\StudioProject\\trackers_app\\lib\\screens\\create_task_screen.dart": [
           {
@@ -121,6 +121,64 @@
               "removed": []
             },
             "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-23T23:32:44.221Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\providers\\task\\task_notifier.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-23T23:33:15.795Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\providers\\task\\task_notifier.dart",
+            "fileType": ".dart",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\trackers_app\\lib\\data\\repositories\\task_repositories.dart": [
+          {
+            "timestamp": "2025-01-23T23:36:18.909Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\data\\repositories\\task_repositories.dart",
+            "fileType": ".dart",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-23T23:36:27.321Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\data\\repositories\\task_repositories.dart",
+            "fileType": ".dart",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ]
