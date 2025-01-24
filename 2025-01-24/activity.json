@@ -3,8 +3,8 @@
   "projects": {
     "trackers_app": {
       "totalLinesAdded": 224,
-      "totalLinesRemoved": 51,
-      "totalActiveTime": 25,
+      "totalLinesRemoved": 63,
+      "totalActiveTime": 35,
       "files": {
         "h:\\StudioProject\\trackers_app\\lib\\screens\\modify_task_screen.dart": [
           {
@@ -174,6 +174,34 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-24T00:37:06.802Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\modify_task_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-24T00:38:15.159Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\modify_task_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\trackers_app\\lib\\widgets\\display_list_of_tasks.dart": [
@@ -247,6 +275,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-24T00:41:03.251Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\utils\\helpers.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "dart"
           }
         ]
