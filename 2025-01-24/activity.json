@@ -2,9 +2,9 @@
   "date": "2025-01-24",
   "projects": {
     "trackers_app": {
-      "totalLinesAdded": 139,
+      "totalLinesAdded": 143,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 14,
       "files": {
         "h:\\StudioProject\\trackers_app\\lib\\screens\\modify_task_screen.dart": [
           {
@@ -75,6 +75,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-24T00:19:23.268Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\modify_task_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-24T00:20:36.424Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\modify_task_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "dart"
           }
         ],
