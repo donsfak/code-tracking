@@ -2,9 +2,9 @@
   "date": "2025-01-26",
   "projects": {
     "trackers_app": {
-      "totalLinesAdded": 557,
-      "totalLinesRemoved": 46,
-      "totalActiveTime": 40,
+      "totalLinesAdded": 563,
+      "totalLinesRemoved": 47,
+      "totalActiveTime": 46,
       "files": {
         "h:\\StudioProject\\trackers_app\\lib\\providers\\task\\task_notifier.dart": [
           {
@@ -104,6 +104,20 @@
             },
             "duration": 5,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-26T16:53:39.557Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\providers\\task\\task_notifier.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\trackers_app\\lib\\screens\\modify_task_screen.dart": [
@@ -119,6 +133,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-26T16:56:12.658Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\modify_task_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],
@@ -247,6 +275,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-01-26T16:56:00.728Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\widgets\\task_title.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "dart"
           }
         ],
