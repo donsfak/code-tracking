@@ -1,0 +1,85 @@
+{
+  "date": "2025-01-28",
+  "projects": {
+    "maps_clone": {
+      "totalLinesAdded": 271,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "h:\\StudioProject\\maps_clone\\android\\local.properties": [
+          {
+            "timestamp": "2025-01-28T11:41:16.145Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\local.properties",
+            "fileType": ".properties",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart": [
+          {
+            "timestamp": "2025-01-28T11:41:21.868Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 204,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle": [
+          {
+            "timestamp": "2025-01-28T11:41:31.820Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ]
+      },
+      "languageStats": {
+        "properties": 0,
+        "dart": 1,
+        "gradle": 1
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "h:\\StudioProject\\maps_clone\\android\\local.properties",
+        "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+        "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle"
+      ],
+      "averageChangeSize": 90.33333333333333
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "dart",
+    "gradle",
+    "properties"
+  ]
+}
