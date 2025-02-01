@@ -1,0 +1,128 @@
+{
+  "date": "2025-02-01",
+  "projects": {
+    "maps_clone": {
+      "totalLinesAdded": 70,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 7,
+      "files": {
+        "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle": [
+          {
+            "timestamp": "2025-02-01T17:18:04.904Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-01T17:18:08.927Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\android\\secrets.properties": [
+          {
+            "timestamp": "2025-02-01T17:20:16.736Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\secrets.properties",
+            "fileType": ".properties",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "properties"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\android\\local.properties": [
+          {
+            "timestamp": "2025-02-01T17:20:24.502Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\local.properties",
+            "fileType": ".properties",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2025-02-01T17:20:28.440Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\local.properties",
+            "fileType": ".properties",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\android\\local.defaults.properties": [
+          {
+            "timestamp": "2025-02-01T17:21:25.023Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\local.defaults.properties",
+            "fileType": ".properties",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          }
+        ]
+      },
+      "languageStats": {
+        "gradle": 1,
+        "properties": 6
+      },
+      "changeFrequency": {
+        "17": 7
+      },
+      "topFiles": [
+        "h:\\StudioProject\\maps_clone\\android\\app\\build.gradle",
+        "h:\\StudioProject\\maps_clone\\android\\local.properties",
+        "h:\\StudioProject\\maps_clone\\android\\secrets.properties",
+        "h:\\StudioProject\\maps_clone\\android\\local.defaults.properties"
+      ],
+      "averageChangeSize": 11.833333333333334
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "properties",
+    "gradle"
+  ]
+}
