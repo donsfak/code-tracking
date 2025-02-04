@@ -1,0 +1,153 @@
+{
+  "date": "2025-02-04",
+  "projects": {
+    "maps_clone": {
+      "totalLinesAdded": 306,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 8,
+      "files": {
+        "h:\\StudioProject\\maps_clone\\pubspec.yaml": [
+          {
+            "timestamp": "2025-02-04T18:01:01.130Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-02-04T18:02:01.437Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-02-04T18:02:22.205Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-02-04T18:02:42.001Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-02-04T18:03:22.861Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-02-04T18:04:01.316Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart": [
+          {
+            "timestamp": "2025-02-04T18:04:12.706Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 190,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\lib\\main.dart": [
+          {
+            "timestamp": "2025-02-04T18:04:32.328Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 6,
+        "dart": 2
+      },
+      "changeFrequency": {
+        "18": 8
+      },
+      "topFiles": [
+        "h:\\StudioProject\\maps_clone\\pubspec.yaml",
+        "h:\\StudioProject\\maps_clone\\lib\\home_screen.dart",
+        "h:\\StudioProject\\maps_clone\\lib\\main.dart"
+      ],
+      "averageChangeSize": 38.75
+    }
+  },
+  "totalActiveTime": 8,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "yaml",
+    "dart"
+  ]
+}
