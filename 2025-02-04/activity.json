@@ -2,7 +2,7 @@
   "date": "2025-02-04",
   "projects": {
     "maps_clone": {
-      "totalLinesAdded": 324,
+      "totalLinesAdded": 340,
       "totalLinesRemoved": 204,
       "totalActiveTime": 12,
       "files": {
@@ -178,6 +178,22 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\ios\\Runner\\AppDelegate.swift": [
+          {
+            "timestamp": "2025-02-04T18:13:03.569Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\ios\\Runner\\AppDelegate.swift",
+            "fileType": ".swift",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "swift"
           }
         ]
       },
