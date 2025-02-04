@@ -2,7 +2,7 @@
   "date": "2025-02-04",
   "projects": {
     "maps_clone": {
-      "totalLinesAdded": 542,
+      "totalLinesAdded": 545,
       "totalLinesRemoved": 254,
       "totalActiveTime": 33,
       "files": {
@@ -309,6 +309,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-04T18:54:28.732Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "xml"
           }
         ],
