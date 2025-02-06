@@ -2,9 +2,9 @@
   "date": "2025-02-06",
   "projects": {
     "portofolio": {
-      "totalLinesAdded": 67230,
+      "totalLinesAdded": 67474,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Users\\falib\\Downloads\\portofolio\\index.html": [
           {
@@ -79,6 +79,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-06T22:12:35.557Z",
+            "fileName": "c:\\Users\\falib\\Downloads\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 244,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
