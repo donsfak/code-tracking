@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-06",
+  "projects": {
+    "portofolio": {
+      "totalLinesAdded": 14,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\falib\\Downloads\\portofolio\\index.html": [
+          {
+            "timestamp": "2025-02-06T20:48:59.456Z",
+            "fileName": "c:\\Users\\falib\\Downloads\\portofolio\\index.html",
+            "fileType": ".html",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "20": 0
+      },
+      "topFiles": [
+        "c:\\Users\\falib\\Downloads\\portofolio\\index.html"
+      ],
+      "averageChangeSize": 14
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
