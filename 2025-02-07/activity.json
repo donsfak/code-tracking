@@ -35,9 +35,9 @@
       "averageChangeSize": 88
     },
     "portofolio": {
-      "totalLinesAdded": 523,
+      "totalLinesAdded": 620,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 10,
+      "totalActiveTime": 19,
       "files": {
         "h:\\StudioProject\\portofolio\\src\\App.tsx": [
           {
@@ -137,6 +137,50 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-07T18:06:58.085Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "h:\\StudioProject\\portofolio\\src\\index.css": [
+          {
+            "timestamp": "2025-02-07T18:10:01.566Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-07T18:10:06.364Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
