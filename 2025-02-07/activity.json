@@ -35,9 +35,9 @@
       "averageChangeSize": 88
     },
     "portofolio": {
-      "totalLinesAdded": 947,
+      "totalLinesAdded": 1060,
       "totalLinesRemoved": 36,
-      "totalActiveTime": 46,
+      "totalActiveTime": 53,
       "files": {
         "h:\\StudioProject\\portofolio\\src\\App.tsx": [
           {
@@ -375,6 +375,20 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-07T23:36:24.158Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "h:\\StudioProject\\portofolio\\src\\index.css": [
@@ -397,6 +411,34 @@
             "fileName": "h:\\StudioProject\\portofolio\\src\\index.css",
             "fileType": ".css",
             "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-07T23:40:37.032Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-07T23:40:38.989Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 18,
             "linesRemoved": 0,
             "projectName": "portofolio",
             "content": {
