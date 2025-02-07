@@ -35,9 +35,9 @@
       "averageChangeSize": 88
     },
     "portofolio": {
-      "totalLinesAdded": 914,
+      "totalLinesAdded": 937,
       "totalLinesRemoved": 19,
-      "totalActiveTime": 27,
+      "totalActiveTime": 29,
       "files": {
         "h:\\StudioProject\\portofolio\\src\\App.tsx": [
           {
@@ -220,6 +220,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-07T23:01:37.247Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
