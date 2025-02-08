@@ -305,6 +305,67 @@
         "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json"
       ],
       "averageChangeSize": 88
+    },
+    "maps_clone": {
+      "totalLinesAdded": 33,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 2,
+      "files": {
+        "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts": [
+          {
+            "timestamp": "2025-02-08T15:25:58.788Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-08T15:26:01.063Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-08T15:26:17.867Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2
+      },
+      "changeFrequency": {
+        "15": 2
+      },
+      "topFiles": [
+        "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts"
+      ],
+      "averageChangeSize": 12.333333333333334
     }
   },
   "totalActiveTime": 5,
