@@ -2,9 +2,9 @@
   "date": "2025-02-08",
   "projects": {
     "portofolio": {
-      "totalLinesAdded": 328,
-      "totalLinesRemoved": 17,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 343,
+      "totalLinesRemoved": 65,
+      "totalActiveTime": 33,
       "files": {
         "h:\\StudioProject\\portofolio\\src\\App.tsx": [
           {
@@ -187,6 +187,76 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-08T02:07:20.976Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-08T02:08:02.875Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-08T02:08:31.329Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-08T02:11:19.596Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-08T02:11:36.476Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
