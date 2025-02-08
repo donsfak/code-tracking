@@ -307,9 +307,9 @@
       "averageChangeSize": 88
     },
     "maps_clone": {
-      "totalLinesAdded": 396,
+      "totalLinesAdded": 448,
       "totalLinesRemoved": 58,
-      "totalActiveTime": 40,
+      "totalActiveTime": 46,
       "files": {
         "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts": [
           {
@@ -745,6 +745,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-08T21:26:15.733Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json": [
@@ -791,6 +805,64 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "h:\\StudioProject\\maps_clone\\lib\\main.dart": [
+          {
+            "timestamp": "2025-02-08T21:26:45.868Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-08T21:28:05.399Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-08T21:28:57.265Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-08T21:29:49.349Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ]
       },
