@@ -1,0 +1,63 @@
+{
+  "date": "2025-02-08",
+  "projects": {
+    "portofolio": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 5,
+      "files": {
+        "h:\\StudioProject\\portofolio\\src\\App.tsx": [
+          {
+            "timestamp": "2025-02-07T23:59:23.727Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-08T00:00:05.764Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 5
+      },
+      "changeFrequency": {
+        "0": 1,
+        "23": 4
+      },
+      "topFiles": [
+        "h:\\StudioProject\\portofolio\\src\\App.tsx"
+      ],
+      "averageChangeSize": 5.5
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23,
+    0
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
