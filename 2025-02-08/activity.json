@@ -307,9 +307,9 @@
       "averageChangeSize": 88
     },
     "maps_clone": {
-      "totalLinesAdded": 281,
-      "totalLinesRemoved": 38,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 283,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 38,
       "files": {
         "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts": [
           {
@@ -618,6 +618,48 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-08T19:33:34.862Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-08T19:34:58.866Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-08T19:35:32.866Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
