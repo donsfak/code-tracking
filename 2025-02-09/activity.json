@@ -3,7 +3,7 @@
   "projects": {
     "maps_clone": {
       "totalLinesAdded": 711,
-      "totalLinesRemoved": 22,
+      "totalLinesRemoved": 56,
       "totalActiveTime": 46,
       "files": {
         "h:\\StudioProject\\maps_clone\\supabase\\functions\\routes\\index.ts": [
@@ -557,6 +557,20 @@
             "fileType": ".yml",
             "linesAdded": 11,
             "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-02-09T23:46:59.082Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 34,
             "projectName": "maps_clone",
             "content": {
               "added": [],
