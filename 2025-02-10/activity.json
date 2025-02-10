@@ -2,9 +2,9 @@
   "date": "2025-02-10",
   "projects": {
     "maps_clone": {
-      "totalLinesAdded": 458,
-      "totalLinesRemoved": 30,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 464,
+      "totalLinesRemoved": 45,
+      "totalActiveTime": 45,
       "files": {
         "h:\\StudioProject\\maps_clone\\docker-compose.yml": [
           {
@@ -392,6 +392,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-10T09:16:42.120Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\supabase\\functions\\routes\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-10T09:17:07.422Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\supabase\\functions\\routes\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "h:\\StudioProject\\maps_clone\\supabase\\supabase\\functions\\routes\\deno.json": [
@@ -415,6 +443,20 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "maps_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-10T09:17:19.149Z",
+            "fileName": "h:\\StudioProject\\maps_clone\\supabase\\supabase\\functions\\routes\\deno.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
             "projectName": "maps_clone",
             "content": {
               "added": [],
