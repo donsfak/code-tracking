@@ -1,0 +1,94 @@
+{
+  "date": "2025-02-13",
+  "projects": {
+    "portofolio": {
+      "totalLinesAdded": 429,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "h:\\StudioProject\\portofolio\\src\\App.tsx": [
+          {
+            "timestamp": "2025-02-13T20:14:18.857Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 275,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-13T20:14:24.706Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "h:\\StudioProject\\portofolio\\src\\index.css": [
+          {
+            "timestamp": "2025-02-13T20:16:32.386Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-13T20:16:37.800Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1,
+        "css": 4
+      },
+      "changeFrequency": {
+        "20": 5
+      },
+      "topFiles": [
+        "h:\\StudioProject\\portofolio\\src\\App.tsx",
+        "h:\\StudioProject\\portofolio\\src\\index.css"
+      ],
+      "averageChangeSize": 107.5
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "css",
+    "tsx"
+  ]
+}
