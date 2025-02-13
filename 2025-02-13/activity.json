@@ -2,9 +2,9 @@
   "date": "2025-02-13",
   "projects": {
     "portofolio": {
-      "totalLinesAdded": 557,
+      "totalLinesAdded": 4582,
       "totalLinesRemoved": 35,
-      "totalActiveTime": 16,
+      "totalActiveTime": 19,
       "files": {
         "h:\\StudioProject\\portofolio\\src\\App.tsx": [
           {
@@ -233,6 +233,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          }
+        ],
+        "h:\\StudioProject\\portofolio\\package-lock.json": [
+          {
+            "timestamp": "2025-02-13T21:10:46.816Z",
+            "fileName": "h:\\StudioProject\\portofolio\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 3989,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "h:\\StudioProject\\portofolio\\package.json": [
+          {
+            "timestamp": "2025-02-13T21:13:11.599Z",
+            "fileName": "h:\\StudioProject\\portofolio\\package.json",
+            "fileType": ".json",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ]
