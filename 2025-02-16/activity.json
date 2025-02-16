@@ -3,8 +3,8 @@
   "projects": {
     "trackers_app": {
       "totalLinesAdded": 353,
-      "totalLinesRemoved": 64,
-      "totalActiveTime": 34,
+      "totalLinesRemoved": 67,
+      "totalActiveTime": 39,
       "files": {
         "h:\\StudioProject\\trackers_app\\android\\app\\build.gradle": [
           {
@@ -289,6 +289,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T14:19:05.870Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "gradle"
           }
         ],
