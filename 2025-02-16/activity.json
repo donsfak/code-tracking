@@ -521,9 +521,9 @@
       "averageChangeSize": 26
     },
     "uber_clone_v1": {
-      "totalLinesAdded": 265,
+      "totalLinesAdded": 273,
       "totalLinesRemoved": 9,
-      "totalActiveTime": 30,
+      "totalActiveTime": 31,
       "files": {
         "h:\\StudioProject\\uber_clone_v1\\pubspec.yaml": [
           {
@@ -857,6 +857,36 @@
             },
             "duration": 4,
             "language": "gradle"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone_v1\\android\\app\\src\\main\\kotlin\\roomci\\com\\uber_clone_v1\\MainActivity.kt": [
+          {
+            "timestamp": "2025-02-16T15:52:00.899Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\app\\src\\main\\kotlin\\roomci\\com\\uber_clone_v1\\MainActivity.kt",
+            "fileType": ".kt",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2025-02-16T15:52:05.901Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\app\\src\\main\\kotlin\\roomci\\com\\uber_clone_v1\\MainActivity.kt",
+            "fileType": ".kt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
           }
         ]
       },
