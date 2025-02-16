@@ -2,9 +2,9 @@
   "date": "2025-02-16",
   "projects": {
     "trackers_app": {
-      "totalLinesAdded": 182,
-      "totalLinesRemoved": 19,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 213,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 17,
       "files": {
         "h:\\StudioProject\\trackers_app\\android\\app\\build.gradle": [
           {
@@ -93,6 +93,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T13:41:24.969Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T13:41:33.557Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "gradle"
           }
         ],
