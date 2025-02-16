@@ -1,0 +1,80 @@
+{
+  "date": "2025-02-16",
+  "projects": {
+    "trackers_app": {
+      "totalLinesAdded": 78,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "h:\\StudioProject\\trackers_app\\android\\app\\build.gradle": [
+          {
+            "timestamp": "2025-02-16T02:23:24.477Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "gradle"
+          }
+        ],
+        "h:\\StudioProject\\trackers_app\\android\\gradle.properties": [
+          {
+            "timestamp": "2025-02-16T02:25:07.780Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\android\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2025-02-16T02:25:10.923Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\android\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          }
+        ]
+      },
+      "languageStats": {
+        "gradle": 0,
+        "properties": 3
+      },
+      "changeFrequency": {
+        "2": 3
+      },
+      "topFiles": [
+        "h:\\StudioProject\\trackers_app\\android\\gradle.properties",
+        "h:\\StudioProject\\trackers_app\\android\\app\\build.gradle"
+      ],
+      "averageChangeSize": 26
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "properties",
+    "gradle"
+  ]
+}
