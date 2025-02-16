@@ -932,9 +932,9 @@
       "averageChangeSize": 91
     },
     "uber_clone": {
-      "totalLinesAdded": 462,
+      "totalLinesAdded": 474,
       "totalLinesRemoved": 137,
-      "totalActiveTime": 31,
+      "totalActiveTime": 36,
       "files": {
         "h:\\StudioProject\\uber_clone\\pubspec.yaml": [
           {
@@ -1253,6 +1253,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-02-16T18:53:36.572Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "kts"
           }
         ],
