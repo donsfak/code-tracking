@@ -932,7 +932,7 @@
       "averageChangeSize": 91
     },
     "uber_clone": {
-      "totalLinesAdded": 851,
+      "totalLinesAdded": 941,
       "totalLinesRemoved": 266,
       "totalActiveTime": 66,
       "files": {
@@ -977,6 +977,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-02-16T23:22:46.758Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "yaml"
           }
         ],
