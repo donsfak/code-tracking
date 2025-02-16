@@ -930,6 +930,39 @@
         "h:\\StudioProject\\uber_clone_v1\\pubspec.yaml"
       ],
       "averageChangeSize": 91
+    },
+    "uber_clone": {
+      "totalLinesAdded": 93,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "h:\\StudioProject\\uber_clone\\pubspec.yaml": [
+          {
+            "timestamp": "2025-02-16T17:34:27.276Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "h:\\StudioProject\\uber_clone\\pubspec.yaml"
+      ],
+      "averageChangeSize": 93
     }
   },
   "totalActiveTime": 3,
