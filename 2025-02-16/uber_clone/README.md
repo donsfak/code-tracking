@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 831                                          |
+| **Lines Added** (➕)   | 851                                          |
 | **Lines Removed** (➖) | 266                                        |
-| **Net Change** (↕)    | 565                |
-| **Active Time** (⌚)   | 62 minutes |
+| **Net Change** (↕)    | 585                |
+| **Active Time** (⌚)   | 66 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,8 @@
 - **settings.gradle.kts** (+45, -0)
 - **gradle.properties** (+6, -0)
 - **main_page.dart** (+16, -0)
-- **signup_screen.dart** (+16, -0)
+- **signup_screen.dart** (+20, -0)
+- **login_screen.dart** (+16, -0)
 
 ## Visualizations
 
@@ -32,7 +33,7 @@ pie showData
 title Lines changed by file type
 ".yaml" : 95
 ".kts" : 423
-".dart" : 491
+".dart" : 511
 ".swift" : 16
 ".xml" : 48
 ".properties" : 24
@@ -47,8 +48,8 @@ title Coding activity by hour (count of changes)
 "18h" : 14
 "19h" : 12
 "22h" : 6
-"23h" : 5
+"23h" : 9
 ```
 
 
-> **Last Updated:** 2/16/2025, 11:15:41 PM
+> **Last Updated:** 2/16/2025, 11:20:41 PM
