@@ -522,8 +522,8 @@
     },
     "uber_clone_v1": {
       "totalLinesAdded": 265,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 26,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 30,
       "files": {
         "h:\\StudioProject\\uber_clone_v1\\pubspec.yaml": [
           {
@@ -842,6 +842,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T15:42:17.193Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "gradle"
           }
         ]
