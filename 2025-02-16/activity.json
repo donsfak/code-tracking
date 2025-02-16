@@ -521,9 +521,9 @@
       "averageChangeSize": 26
     },
     "uber_clone_v1": {
-      "totalLinesAdded": 242,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 265,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 26,
       "files": {
         "h:\\StudioProject\\uber_clone_v1\\pubspec.yaml": [
           {
@@ -783,6 +783,20 @@
             },
             "duration": 1,
             "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T15:37:28.891Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "gradle"
           }
         ],
         "h:\\StudioProject\\uber_clone_v1\\android\\settings.gradle": [
@@ -798,6 +812,36 @@
               "removed": []
             },
             "duration": 2,
+            "language": "gradle"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone_v1\\android\\build.gradle": [
+          {
+            "timestamp": "2025-02-16T15:39:04.856Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T15:39:09.489Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "gradle"
           }
         ]
