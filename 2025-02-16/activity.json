@@ -932,9 +932,9 @@
       "averageChangeSize": 91
     },
     "uber_clone": {
-      "totalLinesAdded": 815,
-      "totalLinesRemoved": 263,
-      "totalActiveTime": 57,
+      "totalLinesAdded": 831,
+      "totalLinesRemoved": 266,
+      "totalActiveTime": 62,
       "files": {
         "h:\\StudioProject\\uber_clone\\pubspec.yaml": [
           {
@@ -1233,6 +1233,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-16T23:13:17.660Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-16T23:14:43.012Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "dart"
           }
         ],
@@ -1562,6 +1590,50 @@
             "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\main_page.dart",
             "fileType": ".dart",
             "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone\\lib\\auth\\signup_screen.dart": [
+          {
+            "timestamp": "2025-02-16T23:14:54.182Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-16T23:15:08.057Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-16T23:15:25.656Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 14,
             "linesRemoved": 0,
             "projectName": "uber_clone",
             "content": {
