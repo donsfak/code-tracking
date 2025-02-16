@@ -521,9 +521,9 @@
       "averageChangeSize": 26
     },
     "uber_clone_v1": {
-      "totalLinesAdded": 160,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 242,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 23,
       "files": {
         "h:\\StudioProject\\uber_clone_v1\\pubspec.yaml": [
           {
@@ -711,6 +711,94 @@
             },
             "duration": 1,
             "language": "xml"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone_v1\\android\\app\\build.gradle": [
+          {
+            "timestamp": "2025-02-16T15:22:12.561Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T15:25:37.778Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T15:26:03.987Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T15:26:17.314Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-16T15:26:31.845Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone_v1\\android\\settings.gradle": [
+          {
+            "timestamp": "2025-02-16T15:23:25.627Z",
+            "fileName": "h:\\StudioProject\\uber_clone_v1\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "uber_clone_v1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "gradle"
           }
         ]
       },
