@@ -2,7 +2,7 @@
   "date": "2025-02-17",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 106,
+      "totalLinesAdded": 166,
       "totalLinesRemoved": 11,
       "totalActiveTime": 9,
       "files": {
@@ -91,6 +91,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-17T00:14:15.672Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ]
