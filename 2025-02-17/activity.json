@@ -1,0 +1,75 @@
+{
+  "date": "2025-02-17",
+  "projects": {
+    "uber_clone": {
+      "totalLinesAdded": 92,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 5,
+      "files": {
+        "h:\\StudioProject\\uber_clone\\lib\\auth\\login_screen.dart": [
+          {
+            "timestamp": "2025-02-16T23:56:17.017Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\auth\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-16T23:56:46.540Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\auth\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-16T23:58:35.072Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\auth\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 5
+      },
+      "changeFrequency": {
+        "23": 5
+      },
+      "topFiles": [
+        "h:\\StudioProject\\uber_clone\\lib\\auth\\login_screen.dart"
+      ],
+      "averageChangeSize": 34.333333333333336
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "dart"
+  ]
+}
