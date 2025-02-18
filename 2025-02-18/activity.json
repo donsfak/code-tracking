@@ -2,9 +2,9 @@
   "date": "2025-02-18",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 284,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 334,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 44,
       "files": {
         "h:\\StudioProject\\uber_clone\\lib\\auth\\signup_screen.dart": [
           {
@@ -288,6 +288,52 @@
             },
             "duration": 5,
             "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone\\android\\app\\build.gradle.kts": [
+          {
+            "timestamp": "2025-02-18T21:38:22.568Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\app\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-02-18T21:38:33.717Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\app\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kts"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone\\android\\local.properties": [
+          {
+            "timestamp": "2025-02-18T21:39:54.396Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\local.properties",
+            "fileType": ".properties",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "properties"
           }
         ]
       },
