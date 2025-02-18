@@ -2,9 +2,9 @@
   "date": "2025-02-18",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 259,
+      "totalLinesAdded": 266,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 18,
+      "totalActiveTime": 27,
       "files": {
         "h:\\StudioProject\\uber_clone\\lib\\auth\\signup_screen.dart": [
           {
@@ -33,6 +33,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-18T11:05:16.428Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-18T11:05:28.401Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],
@@ -147,6 +175,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-18T11:01:41.708Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\methods\\common_methods.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-18T11:03:57.522Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\methods\\common_methods.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "dart"
           }
         ]
