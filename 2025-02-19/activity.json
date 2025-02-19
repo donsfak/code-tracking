@@ -2,9 +2,9 @@
   "date": "2025-02-19",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 885,
+      "totalLinesAdded": 888,
       "totalLinesRemoved": 12,
-      "totalActiveTime": 21,
+      "totalActiveTime": 22,
       "files": {
         "h:\\StudioProject\\uber_clone\\pubspec.yaml": [
           {
@@ -209,6 +209,36 @@
             "fileType": ".dart",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone\\lib\\global\\global_var.dart": [
+          {
+            "timestamp": "2025-02-19T15:15:39.364Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\global\\global_var.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-19T15:16:13.757Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\global\\global_var.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "uber_clone",
             "content": {
               "added": [],
