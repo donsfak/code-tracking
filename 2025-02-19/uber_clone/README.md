@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 973                                          |
-| **Lines Removed** (➖) | 17                                        |
-| **Net Change** (↕)    | 956                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Lines Added** (➕)   | 992                                          |
+| **Lines Removed** (➖) | 22                                        |
+| **Net Change** (↕)    | 970                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
@@ -19,8 +19,8 @@
 - **login_screen.dart** (+306, -1)
 - **signup_screen.dart** (+322, -5)
 - **loading_dialog.dart** (+46, -5)
-- **global_var.dart** (+3, -0)
-- **home_screen.dart** (+37, -5)
+- **global_var.dart** (+13, -0)
+- **home_screen.dart** (+46, -10)
 
 ## Visualizations
 
@@ -34,7 +34,7 @@ title Lines changed by file type
 ".xml" : 96
 ".kts" : 60
 ".properties" : 6
-".dart" : 730
+".dart" : 754
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "02h" : 3
 "03h" : 4
 "14h" : 6
-"15h" : 13
+"15h" : 22
 ```
 
 
-> **Last Updated:** 2/19/2025, 3:28:29 PM
+> **Last Updated:** 2/19/2025, 3:33:29 PM
