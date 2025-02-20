@@ -2,7 +2,7 @@
   "date": "2025-02-20",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 102,
+      "totalLinesAdded": 193,
       "totalLinesRemoved": 0,
       "totalActiveTime": 3,
       "files": {
@@ -80,6 +80,22 @@
             },
             "duration": 1,
             "language": "xml"
+          }
+        ],
+        "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-02-20T18:32:37.605Z",
+            "fileName": "c:\\Users\\falib\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
