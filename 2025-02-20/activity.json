@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 27,
+      "totalLinesAdded": 102,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 3,
       "files": {
         "h:\\StudioProject\\uber_clone\\lib\\main.dart": [
           {
@@ -20,6 +20,66 @@
             },
             "duration": 0,
             "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone\\lib\\global\\global_var.dart": [
+          {
+            "timestamp": "2025-02-20T14:01:20.646Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\global\\global_var.dart",
+            "fileType": ".dart",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml": [
+          {
+            "timestamp": "2025-02-20T14:01:54.370Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-20T14:02:09.739Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-20T14:02:30.930Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
           }
         ]
       },
