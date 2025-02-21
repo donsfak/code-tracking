@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-21",
+  "projects": {
+    "uber_clone": {
+      "totalLinesAdded": 27,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "h:\\StudioProject\\uber_clone\\lib\\main.dart": [
+          {
+            "timestamp": "2025-02-21T01:49:12.194Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 0
+      },
+      "changeFrequency": {
+        "1": 0
+      },
+      "topFiles": [
+        "h:\\StudioProject\\uber_clone\\lib\\main.dart"
+      ],
+      "averageChangeSize": 27
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    1
+  ],
+  "mostUsedLanguages": [
+    "dart"
+  ]
+}
