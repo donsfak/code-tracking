@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "uber_clone": {
-      "totalLinesAdded": 798,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 39,
+      "totalLinesAdded": 866,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 45,
       "files": {
         "h:\\StudioProject\\uber_clone\\lib\\main.dart": [
           {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-21T02:40:37.945Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],
@@ -464,6 +478,36 @@
             },
             "duration": 2,
             "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml": [
+          {
+            "timestamp": "2025-02-21T02:44:25.214Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-21T02:44:31.697Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
           }
         ]
       },
