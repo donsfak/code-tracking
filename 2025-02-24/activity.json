@@ -1,0 +1,148 @@
+{
+  "date": "2025-02-24",
+  "projects": {
+    "drivers_app": {
+      "totalLinesAdded": 627,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 7,
+      "files": {
+        "h:\\StudioProject\\drivers_app\\lib\\auth\\login_screen.dart": [
+          {
+            "timestamp": "2025-02-24T13:07:40.009Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 306,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T13:07:46.640Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart": [
+          {
+            "timestamp": "2025-02-24T13:08:00.208Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 317,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T13:08:51.779Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T13:09:13.842Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T13:09:56.745Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T13:10:24.259Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T13:11:16.465Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 7
+      },
+      "changeFrequency": {
+        "13": 7
+      },
+      "topFiles": [
+        "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+        "h:\\StudioProject\\drivers_app\\lib\\auth\\login_screen.dart"
+      ],
+      "averageChangeSize": 79.125
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "dart"
+  ]
+}
