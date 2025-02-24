@@ -2,9 +2,9 @@
   "date": "2025-02-24",
   "projects": {
     "drivers_app": {
-      "totalLinesAdded": 889,
-      "totalLinesRemoved": 62,
-      "totalActiveTime": 47,
+      "totalLinesAdded": 907,
+      "totalLinesRemoved": 70,
+      "totalActiveTime": 55,
       "files": {
         "h:\\StudioProject\\drivers_app\\lib\\auth\\login_screen.dart": [
           {
@@ -302,6 +302,62 @@
             },
             "duration": 2,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T14:07:33.151Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T14:08:04.241Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T14:09:07.544Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-24T14:09:31.151Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\drivers_app\\android\\app\\build.gradle.kts": [
@@ -359,6 +415,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-02-24T14:10:45.588Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\android\\app\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "kts"
           }
         ],
