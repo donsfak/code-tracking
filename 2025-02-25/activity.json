@@ -2,7 +2,7 @@
   "date": "2025-02-25",
   "projects": {
     "trackers_app": {
-      "totalLinesAdded": 2172,
+      "totalLinesAdded": 2173,
       "totalLinesRemoved": 418,
       "totalActiveTime": 202,
       "files": {
@@ -1537,6 +1537,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-25T19:56:24.101Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\create_task_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ],
