@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "trackers_app": {
-      "totalLinesAdded": 805,
-      "totalLinesRemoved": 302,
-      "totalActiveTime": 82,
+      "totalLinesAdded": 811,
+      "totalLinesRemoved": 310,
+      "totalActiveTime": 92,
       "files": {
         "h:\\StudioProject\\trackers_app\\lib\\screens\\home_screen.dart": [
           {
@@ -530,6 +530,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-25T17:07:56.958Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\config\\routes\\app_routes.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\trackers_app\\lib\\screens\\HeatmapPage.dart": [
@@ -671,6 +685,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-25T17:07:06.958Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\HeatmapPage.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-25T17:11:28.834Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\HeatmapPage.dart",
+            "fileType": ".dart",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "dart"
           }
         ],
