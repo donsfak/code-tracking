@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "trackers_app": {
-      "totalLinesAdded": 170,
+      "totalLinesAdded": 334,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 6,
       "files": {
         "h:\\StudioProject\\trackers_app\\lib\\screens\\home_screen.dart": [
           {
@@ -40,6 +40,80 @@
             "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\home_screen.dart",
             "fileType": ".dart",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\trackers_app\\lib\\components\\my_heatmap.dart": [
+          {
+            "timestamp": "2025-02-25T15:34:12.487Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\components\\my_heatmap.dart",
+            "fileType": ".dart",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-25T15:34:14.607Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\components\\my_heatmap.dart",
+            "fileType": ".dart",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\trackers_app\\lib\\screens\\heatmap_screen.dart": [
+          {
+            "timestamp": "2025-02-25T15:34:26.786Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\heatmap_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-25T15:34:46.433Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\heatmap_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-25T15:34:59.623Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\heatmap_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "trackers_app",
             "content": {
