@@ -3,8 +3,8 @@
   "projects": {
     "trackers_app": {
       "totalLinesAdded": 805,
-      "totalLinesRemoved": 301,
-      "totalActiveTime": 79,
+      "totalLinesRemoved": 302,
+      "totalActiveTime": 82,
       "files": {
         "h:\\StudioProject\\trackers_app\\lib\\screens\\home_screen.dart": [
           {
@@ -657,6 +657,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-25T17:02:56.547Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\HeatmapPage.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "dart"
           }
         ],
