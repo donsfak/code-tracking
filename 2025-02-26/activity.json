@@ -49,9 +49,9 @@
       "averageChangeSize": 52
     },
     "drivers_app": {
-      "totalLinesAdded": 159,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 189,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 40,
       "files": {
         "h:\\StudioProject\\drivers_app\\lib\\main.dart": [
           {
@@ -194,6 +194,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:32:26.407Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\dashboard.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:32:48.552Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\dashboard.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:34:14.768Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\dashboard.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:34:35.085Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\dashboard.dart",
+            "fileType": ".dart",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],
