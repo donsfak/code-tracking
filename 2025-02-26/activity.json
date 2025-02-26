@@ -49,9 +49,9 @@
       "averageChangeSize": 52
     },
     "drivers_app": {
-      "totalLinesAdded": 128,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 159,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 32,
       "files": {
         "h:\\StudioProject\\drivers_app\\lib\\main.dart": [
           {
@@ -255,6 +255,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:29:21.625Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\earnings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\drivers_app\\lib\\screen\\trips_screen.dart": [
@@ -277,6 +291,20 @@
             "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\trips_screen.dart",
             "fileType": ".dart",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:26:33.105Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\trips_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 14,
             "linesRemoved": 0,
             "projectName": "drivers_app",
             "content": {
@@ -314,6 +342,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:25:59.173Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\profil_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:27:44.159Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\profil_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "dart"
           }
         ]
