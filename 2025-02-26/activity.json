@@ -49,9 +49,9 @@
       "averageChangeSize": 52
     },
     "drivers_app": {
-      "totalLinesAdded": 83,
+      "totalLinesAdded": 128,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 14,
+      "totalActiveTime": 26,
       "files": {
         "h:\\StudioProject\\drivers_app\\lib\\main.dart": [
           {
@@ -180,6 +180,140 @@
               "removed": []
             },
             "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:21:04.886Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\dashboard.dart",
+            "fileType": ".dart",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\drivers_app\\lib\\screen\\home_screen.dart": [
+          {
+            "timestamp": "2025-02-26T23:21:51.964Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:22:18.765Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\drivers_app\\lib\\screen\\earnings_screen.dart": [
+          {
+            "timestamp": "2025-02-26T23:22:46.659Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\earnings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:22:54.334Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\earnings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\drivers_app\\lib\\screen\\trips_screen.dart": [
+          {
+            "timestamp": "2025-02-26T23:24:00.521Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\trips_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:24:09.850Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\trips_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\drivers_app\\lib\\screen\\profil_screen.dart": [
+          {
+            "timestamp": "2025-02-26T23:25:15.789Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\profil_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-26T23:25:33.726Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\lib\\screen\\profil_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ]
