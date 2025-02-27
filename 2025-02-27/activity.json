@@ -295,7 +295,7 @@
       "averageChangeSize": 2
     },
     "uber_clone": {
-      "totalLinesAdded": 312,
+      "totalLinesAdded": 325,
       "totalLinesRemoved": 52,
       "totalActiveTime": 41,
       "files": {
@@ -620,6 +620,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T18:10:21.185Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ]
