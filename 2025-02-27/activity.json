@@ -2,7 +2,7 @@
   "date": "2025-02-27",
   "projects": {
     "drivers_app": {
-      "totalLinesAdded": 200,
+      "totalLinesAdded": 201,
       "totalLinesRemoved": 12,
       "totalActiveTime": 26,
       "files": {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-02-27T02:00:01.754Z",
+            "fileName": "h:\\StudioProject\\drivers_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "drivers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "yaml"
           }
         ],
