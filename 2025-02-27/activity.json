@@ -295,9 +295,9 @@
       "averageChangeSize": 2
     },
     "uber_clone": {
-      "totalLinesAdded": 613,
+      "totalLinesAdded": 619,
       "totalLinesRemoved": 129,
-      "totalActiveTime": 102,
+      "totalActiveTime": 106,
       "files": {
         "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart": [
           {
@@ -1201,6 +1201,48 @@
             "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
             "fileType": ".dart",
             "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T19:57:11.051Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T19:57:41.029Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T19:57:55.642Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "uber_clone",
             "content": {
