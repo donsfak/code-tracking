@@ -293,6 +293,53 @@
         "h:\\StudioProject\\drivers_app\\pubspec.yaml"
       ],
       "averageChangeSize": 2
+    },
+    "uber_clone": {
+      "totalLinesAdded": 85,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart": [
+          {
+            "timestamp": "2025-02-27T16:05:59.585Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T16:06:33.102Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 1
+      },
+      "changeFrequency": {
+        "16": 1
+      },
+      "topFiles": [
+        "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart"
+      ],
+      "averageChangeSize": 42.5
     }
   },
   "totalActiveTime": 0,
