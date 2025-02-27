@@ -295,9 +295,9 @@
       "averageChangeSize": 2
     },
     "uber_clone": {
-      "totalLinesAdded": 192,
-      "totalLinesRemoved": 50,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 207,
+      "totalLinesRemoved": 51,
+      "totalActiveTime": 22,
       "files": {
         "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart": [
           {
@@ -466,6 +466,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T16:19:36.854Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T16:19:55.191Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T16:21:27.355Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "dart"
           }
         ]
