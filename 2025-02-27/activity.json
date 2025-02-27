@@ -295,9 +295,9 @@
       "averageChangeSize": 2
     },
     "uber_clone": {
-      "totalLinesAdded": 85,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 154,
+      "totalLinesRemoved": 50,
+      "totalActiveTime": 8,
       "files": {
         "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart": [
           {
@@ -326,6 +326,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T16:08:01.968Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T16:09:15.038Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 50,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T16:09:48.332Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-02-27T16:11:42.260Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "dart"
           }
         ]
