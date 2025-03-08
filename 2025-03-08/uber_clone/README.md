@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 891                                          |
+| **Lines Added** (➕)   | 995                                          |
 | **Lines Removed** (➖) | 291                                        |
-| **Net Change** (↕)    | 600                |
-| **Active Time** (⌚)   | 70 minutes |
+| **Net Change** (↕)    | 704                |
+| **Active Time** (⌚)   | 71 minutes |
 
 
 ## Modified Files
 - **home_screen.dart** (+451, -3)
 - **search_destination.dart** (+440, -288)
+- **pubspec.yaml** (+104, -0)
 
 ## Visualizations
 
@@ -22,6 +23,7 @@
 pie showData
 title Lines changed by file type
 ".dart" : 1182
+".yaml" : 104
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 38
-"01h" : 8
+"01h" : 10
 ```
 
 
-> **Last Updated:** 3/8/2025, 1:31:29 AM
+> **Last Updated:** 3/8/2025, 1:46:29 AM
