@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 461                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 461                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 602                                          |
+| **Lines Removed** (➖) | 124                                        |
+| **Net Change** (↕)    | 478                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
 - **home_screen.dart** (+445, -0)
-- **search_destination.dart** (+16, -0)
+- **search_destination.dart** (+157, -124)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 461
+".dart" : 726
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 4
+"00h" : 10
 ```
 
 
-> **Last Updated:** 3/8/2025, 12:21:28 AM
+> **Last Updated:** 3/8/2025, 12:26:28 AM
