@@ -3,7 +3,7 @@
   "projects": {
     "uber_clone": {
       "totalLinesAdded": 1327,
-      "totalLinesRemoved": 400,
+      "totalLinesRemoved": 402,
       "totalActiveTime": 136,
       "files": {
         "h:\\StudioProject\\uber_clone\\lib\\screens\\home_screen.dart": [
@@ -1087,6 +1087,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-03-08T14:24:59.557Z",
+            "fileName": "h:\\StudioProject\\uber_clone\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "uber_clone",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "yaml"
           }
         ],
