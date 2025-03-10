@@ -2,9 +2,9 @@
   "date": "2025-03-10",
   "projects": {
     "portofolio": {
-      "totalLinesAdded": 354,
+      "totalLinesAdded": 361,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 5,
+      "totalActiveTime": 9,
       "files": {
         "h:\\StudioProject\\portofolio\\src\\App.tsx": [
           {
@@ -47,6 +47,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-10T22:52:41.927Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-10T22:56:04.081Z",
+            "fileName": "h:\\StudioProject\\portofolio\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "portofolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
