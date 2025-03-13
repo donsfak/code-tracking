@@ -35,9 +35,9 @@
       "averageChangeSize": 19
     },
     "ai agent": {
-      "totalLinesAdded": 352,
+      "totalLinesAdded": 396,
       "totalLinesRemoved": 17,
-      "totalActiveTime": 13,
+      "totalActiveTime": 17,
       "files": {
         "c:\\Users\\falib\\Downloads\\ai agent\\content.json": [
           {
@@ -157,6 +157,22 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\falib\\Downloads\\ai agent\\popup.html": [
+          {
+            "timestamp": "2025-03-13T23:23:55.808Z",
+            "fileName": "c:\\Users\\falib\\Downloads\\ai agent\\popup.html",
+            "fileType": ".html",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "ai agent",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
           }
         ]
       },

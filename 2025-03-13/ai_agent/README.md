@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 352                                          |
+| **Lines Added** (➕)   | 396                                          |
 | **Lines Removed** (➖) | 17                                        |
-| **Net Change** (↕)    | 335                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Net Change** (↕)    | 379                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,7 @@
 - **content.js** (+111, -16)
 - **styles.css** (+100, -0)
 - **manifest.json** (+30, -1)
+- **popup.html** (+44, -0)
 
 ## Visualizations
 
@@ -26,6 +27,7 @@ title Lines changed by file type
 ".json" : 142
 ".js" : 127
 ".css" : 100
+".html" : 44
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "22h" : 3
-"23h" : 5
+"23h" : 6
 ```
 
 
-> **Last Updated:** 3/13/2025, 11:21:16 PM
+> **Last Updated:** 3/13/2025, 11:26:16 PM
