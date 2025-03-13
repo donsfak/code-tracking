@@ -35,9 +35,9 @@
       "averageChangeSize": 19
     },
     "ai agent": {
-      "totalLinesAdded": 400,
-      "totalLinesRemoved": 17,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 434,
+      "totalLinesRemoved": 100,
+      "totalActiveTime": 25,
       "files": {
         "c:\\Users\\falib\\Downloads\\ai agent\\content.json": [
           {
@@ -83,6 +83,20 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-13T23:36:43.269Z",
+            "fileName": "c:\\Users\\falib\\Downloads\\ai agent\\content.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 43,
+            "projectName": "ai agent",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\Users\\falib\\Downloads\\ai agent\\styles.css": [
@@ -106,6 +120,20 @@
             "fileType": ".css",
             "linesAdded": 10,
             "linesRemoved": 0,
+            "projectName": "ai agent",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-03-13T23:37:44.571Z",
+            "fileName": "c:\\Users\\falib\\Downloads\\ai agent\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 36,
             "projectName": "ai agent",
             "content": {
               "added": [],
@@ -157,6 +185,20 @@
             },
             "duration": 2,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-03-13T23:36:35.200Z",
+            "fileName": "c:\\Users\\falib\\Downloads\\ai agent\\manifest.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "ai agent",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
           }
         ],
         "c:\\Users\\falib\\Downloads\\ai agent\\popup.html": [
@@ -188,6 +230,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\falib\\Downloads\\ai agent\\modal.js": [
+          {
+            "timestamp": "2025-03-13T23:37:19.188Z",
+            "fileName": "c:\\Users\\falib\\Downloads\\ai agent\\modal.js",
+            "fileType": ".js",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "ai agent",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
