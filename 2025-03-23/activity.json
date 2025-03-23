@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-23",
+  "projects": {
+    "wordle": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "h:\\StudioProject\\wordle\\lib\\app\\app.dart": [
+          {
+            "timestamp": "2025-03-23T15:01:11.868Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\app\\app.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "h:\\StudioProject\\wordle\\lib\\app\\app.dart"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "dart"
+  ]
+}
