@@ -2,9 +2,9 @@
   "date": "2025-03-25",
   "projects": {
     "wordle": {
-      "totalLinesAdded": 45,
+      "totalLinesAdded": 52,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 4,
       "files": {
         "h:\\StudioProject\\wordle\\lib\\wordle\\models\\letter_model.dart": [
           {
@@ -19,6 +19,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\wordle\\lib\\wordle\\models\\word_model.dart": [
+          {
+            "timestamp": "2025-03-25T11:33:02.940Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\wordle\\models\\word_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-25T11:34:04.899Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\wordle\\models\\word_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-25T11:35:44.715Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\wordle\\models\\word_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "dart"
           }
         ]
