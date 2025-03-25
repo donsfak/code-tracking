@@ -2,9 +2,9 @@
   "date": "2025-03-25",
   "projects": {
     "wordle": {
-      "totalLinesAdded": 420,
+      "totalLinesAdded": 478,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 82,
+      "totalActiveTime": 90,
       "files": {
         "h:\\StudioProject\\wordle\\lib\\wordle\\models\\letter_model.dart": [
           {
@@ -472,6 +472,34 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-25T14:19:29.475Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\wordle\\views\\wordle_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-25T14:21:32.085Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\wordle\\views\\wordle_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\wordle\\lib\\wordle\\data\\word_list.dart": [
@@ -892,6 +920,36 @@
             "fileName": "h:\\StudioProject\\wordle\\lib\\wordle\\widgets\\keyboard.dart",
             "fileType": ".dart",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\wordle\\lib\\app\\app.dart": [
+          {
+            "timestamp": "2025-03-25T14:19:40.735Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\app\\app.dart",
+            "fileType": ".dart",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-25T14:19:48.376Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\app\\app.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "wordle",
             "content": {
