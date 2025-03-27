@@ -1,0 +1,114 @@
+{
+  "date": "2025-03-27",
+  "projects": {
+    "wordle": {
+      "totalLinesAdded": 174,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "h:\\StudioProject\\wordle\\lib\\wordle\\wordle.dart": [
+          {
+            "timestamp": "2025-03-27T12:50:57.086Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\wordle\\wordle.dart",
+            "fileType": ".dart",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\wordle\\lib\\wordle\\widgets\\board.dart": [
+          {
+            "timestamp": "2025-03-27T12:50:57.111Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\wordle\\widgets\\board.dart",
+            "fileType": ".dart",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\wordle\\pubspec.yaml": [
+          {
+            "timestamp": "2025-03-27T12:51:48.462Z",
+            "fileName": "h:\\StudioProject\\wordle\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "h:\\StudioProject\\wordle\\lib\\app\\app_colors.dart": [
+          {
+            "timestamp": "2025-03-27T12:54:30.415Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\app\\app_colors.dart",
+            "fileType": ".dart",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-27T12:54:43.427Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\app\\app_colors.dart",
+            "fileType": ".dart",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 4,
+        "yaml": 1
+      },
+      "changeFrequency": {
+        "12": 5
+      },
+      "topFiles": [
+        "h:\\StudioProject\\wordle\\lib\\app\\app_colors.dart",
+        "h:\\StudioProject\\wordle\\lib\\wordle\\wordle.dart",
+        "h:\\StudioProject\\wordle\\lib\\wordle\\widgets\\board.dart",
+        "h:\\StudioProject\\wordle\\pubspec.yaml"
+      ],
+      "averageChangeSize": 34.8
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "dart",
+    "yaml"
+  ]
+}
