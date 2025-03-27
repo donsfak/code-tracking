@@ -4,17 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 174                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 174                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 840                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 837                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
 - **wordle.dart** (+7, -0)
-- **board.dart** (+45, -0)
+- **board.dart** (+46, -3)
 - **pubspec.yaml** (+92, -0)
 - **app_colors.dart** (+30, -0)
+- **app.dart** (+111, -0)
+- **wordle_screen.dart** (+346, -0)
+- **board_tile.dart** (+77, -0)
+- **keyboard.dart** (+131, -0)
 
 ## Visualizations
 
@@ -23,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 82
+".dart" : 751
 ".yaml" : 92
 ```
 
@@ -32,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 5
+"12h" : 15
 ```
 
 
-> **Last Updated:** 3/27/2025, 12:54:45 PM
+> **Last Updated:** 3/27/2025, 12:59:45 PM
