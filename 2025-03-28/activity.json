@@ -3,7 +3,7 @@
   "projects": {
     "wordle": {
       "totalLinesAdded": 378,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 0,
       "files": {
         "h:\\StudioProject\\wordle\\lib\\wordList.dart": [
@@ -13,6 +13,20 @@
             "fileType": ".dart",
             "linesAdded": 378,
             "linesRemoved": 0,
+            "projectName": "wordle",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-28T23:00:00.054Z",
+            "fileName": "h:\\StudioProject\\wordle\\lib\\wordList.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "wordle",
             "content": {
               "added": [],
