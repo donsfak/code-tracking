@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3381                                          |
+| **Lines Added** (➕)   | 3442                                          |
 | **Lines Removed** (➖) | 228                                        |
-| **Net Change** (↕)    | 3153                |
-| **Active Time** (⌚)   | 87 minutes |
+| **Net Change** (↕)    | 3214                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
@@ -29,7 +29,7 @@
 - **display_list_of_tasks.dart** (+204, -58)
 - **datasource_exception.dart** (+11, -0)
 - **repository_exception.dart** (+11, -0)
-- **task_datasource.dart** (+533, -15)
+- **task_datasource.dart** (+594, -15)
 - **task.dart** (+138, -0)
 - **helpers.dart** (+78, -0)
 - **modify_task_screen.dart** (+679, -2)
@@ -42,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 3609
+".dart" : 3670
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "15h" : 29
 "16h" : 17
 "17h" : 10
-"18h" : 5
+"18h" : 6
 ```
 
 
-> **Last Updated:** 4/10/2025, 6:07:19 PM
+> **Last Updated:** 4/10/2025, 6:12:19 PM
