@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-12",
+  "projects": {
+    "trackers_app": {
+      "totalLinesAdded": 300,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 2,
+      "files": {
+        "h:\\StudioProject\\trackers_app\\lib\\screens\\home_screen.dart": [
+          {
+            "timestamp": "2025-04-12T01:05:51.540Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 300,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-04-12T01:07:31.912Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 2
+      },
+      "changeFrequency": {
+        "1": 2
+      },
+      "topFiles": [
+        "h:\\StudioProject\\trackers_app\\lib\\screens\\home_screen.dart"
+      ],
+      "averageChangeSize": 152.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    1
+  ],
+  "mostUsedLanguages": [
+    "dart"
+  ]
+}
