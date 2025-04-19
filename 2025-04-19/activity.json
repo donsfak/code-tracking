@@ -3,7 +3,7 @@
   "projects": {
     "trackers_app": {
       "totalLinesAdded": 107,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 1,
       "files": {
         "h:\\StudioProject\\trackers_app\\pubspec.yaml": [
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-04-19T01:04:10.952Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "yaml"
           }
         ]
