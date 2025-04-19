@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-19",
+  "projects": {
+    "trackers_app": {
+      "totalLinesAdded": 107,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "h:\\StudioProject\\trackers_app\\pubspec.yaml": [
+          {
+            "timestamp": "2025-04-19T00:58:10.297Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-04-19T00:58:20.351Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 1
+      },
+      "changeFrequency": {
+        "0": 1
+      },
+      "topFiles": [
+        "h:\\StudioProject\\trackers_app\\pubspec.yaml"
+      ],
+      "averageChangeSize": 53.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "yaml"
+  ]
+}
