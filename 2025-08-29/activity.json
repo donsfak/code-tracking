@@ -1,0 +1,83 @@
+{
+  "date": "2025-08-29",
+  "projects": {
+    "trackers_app": {
+      "totalLinesAdded": 240,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "h:\\StudioProject\\trackers_app\\pubspec.yaml": [
+          {
+            "timestamp": "2025-08-29T00:53:00.127Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ],
+        "h:\\StudioProject\\trackers_app\\lib\\utils\\app_alert.dart": [
+          {
+            "timestamp": "2025-08-29T00:53:29.958Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\utils\\app_alert.dart",
+            "fileType": ".dart",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\trackers_app\\lib\\utils\\helpers.dart": [
+          {
+            "timestamp": "2025-08-29T00:53:29.983Z",
+            "fileName": "h:\\StudioProject\\trackers_app\\lib\\utils\\helpers.dart",
+            "fileType": ".dart",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "trackers_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 0,
+        "dart": 2
+      },
+      "changeFrequency": {
+        "0": 2
+      },
+      "topFiles": [
+        "h:\\StudioProject\\trackers_app\\pubspec.yaml",
+        "h:\\StudioProject\\trackers_app\\lib\\utils\\app_alert.dart",
+        "h:\\StudioProject\\trackers_app\\lib\\utils\\helpers.dart"
+      ],
+      "averageChangeSize": 80
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "dart",
+    "yaml"
+  ]
+}
