@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-17",
+  "projects": {
+    "Théorie des graphes": {
+      "totalLinesAdded": 137,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c": [
+          {
+            "timestamp": "2025-09-17T22:36:25.882Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c",
+            "fileType": ".c",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "Théorie des graphes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c"
+      ],
+      "averageChangeSize": 137
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "c"
+  ]
+}
