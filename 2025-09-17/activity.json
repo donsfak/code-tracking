@@ -3,7 +3,7 @@
   "projects": {
     "Théorie des graphes": {
       "totalLinesAdded": 137,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 27,
       "totalActiveTime": 0,
       "files": {
         "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c": [
@@ -13,6 +13,20 @@
             "fileType": ".c",
             "linesAdded": 137,
             "linesRemoved": 0,
+            "projectName": "Théorie des graphes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-09-17T23:30:33.392Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 27,
             "projectName": "Théorie des graphes",
             "content": {
               "added": [],

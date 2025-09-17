@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 137                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 137                |
+| **Lines Removed** (➖) | 27                                        |
+| **Net Change** (↕)    | 110                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
-- **Exo1_parcours_profondeur&largeur.c** (+137, -0)
+- **Exo1_parcours_profondeur&largeur.c** (+137, -27)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".c" : 137
+".c" : 164
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +29,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "22h" : 1
+"23h" : 1
 ```
 
 
-> **Last Updated:** 9/17/2025, 10:41:21 PM
+> **Last Updated:** 9/17/2025, 11:31:21 PM
