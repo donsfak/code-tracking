@@ -2,9 +2,9 @@
   "date": "2025-09-18",
   "projects": {
     "Théorie des graphes": {
-      "totalLinesAdded": 113,
-      "totalLinesRemoved": 13,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 225,
+      "totalLinesRemoved": 75,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c": [
           {
@@ -47,6 +47,48 @@
               "removed": []
             },
             "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-09-18T23:12:35.018Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c",
+            "fileType": ".c",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "Théorie des graphes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-09-18T23:12:42.501Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 62,
+            "projectName": "Théorie des graphes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-09-18T23:14:38.786Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c",
+            "fileType": ".c",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Théorie des graphes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "c"
           }
         ]
