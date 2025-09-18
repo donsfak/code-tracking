@@ -1,0 +1,75 @@
+{
+  "date": "2025-09-18",
+  "projects": {
+    "Théorie des graphes": {
+      "totalLinesAdded": 113,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c": [
+          {
+            "timestamp": "2025-09-18T22:48:35.834Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c",
+            "fileType": ".c",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "Théorie des graphes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-09-18T22:48:41.528Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c",
+            "fileType": ".c",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Théorie des graphes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-09-18T22:50:49.243Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "Théorie des graphes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 4
+      },
+      "changeFrequency": {
+        "22": 4
+      },
+      "topFiles": [
+        "c:\\Users\\falib\\Desktop\\ESATIC\\Théorie des graphes\\Exo1_parcours_profondeur&largeur.c"
+      ],
+      "averageChangeSize": 42
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "c"
+  ]
+}
