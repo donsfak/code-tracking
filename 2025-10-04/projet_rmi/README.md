@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 72                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 72                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Lines Added** (➕)   | 106                                          |
+| **Lines Removed** (➖) | 18                                        |
+| **Net Change** (↕)    | 88                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
-- **BanqueService.java** (+1, -0)
-- **BanqueServiceImpl.java** (+53, -0)
+- **BanqueService.java** (+29, -18)
+- **BanqueServiceImpl.java** (+59, -0)
 - **Serveur.java** (+18, -0)
 
 ## Visualizations
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 72
+".java" : 124
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"17h" : 5
+"17h" : 11
 ```
 
 
-> **Last Updated:** 10/4/2025, 5:26:30 PM
+> **Last Updated:** 10/4/2025, 5:46:30 PM
