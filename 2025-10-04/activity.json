@@ -2,7 +2,7 @@
   "date": "2025-10-04",
   "projects": {
     "projet_rmi": {
-      "totalLinesAdded": 20,
+      "totalLinesAdded": 72,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -35,6 +35,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-10-04T17:25:50.259Z",
+            "fileName": "h:\\StudioProject\\projet_rmi\\BanqueServiceImpl.java",
+            "fileType": ".java",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "projet_rmi",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
