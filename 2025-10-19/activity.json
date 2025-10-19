@@ -2,7 +2,7 @@
   "date": "2025-10-19",
   "projects": {
     "logs": {
-      "totalLinesAdded": 29228,
+      "totalLinesAdded": 29531,
       "totalLinesRemoved": 0,
       "totalActiveTime": 7,
       "files": {
@@ -89,6 +89,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-10-19T15:08:18.878Z",
+            "fileName": "h:\\nifi-2.6.0\\logs\\nifi-app.log",
+            "fileType": ".log",
+            "linesAdded": 303,
+            "linesRemoved": 0,
+            "projectName": "logs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "log"
           }
         ]
