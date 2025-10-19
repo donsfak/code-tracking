@@ -1,0 +1,119 @@
+{
+  "date": "2025-10-19",
+  "projects": {
+    "logs": {
+      "totalLinesAdded": 29228,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "h:\\nifi-2.6.0\\logs\\nifi-app.log": [
+          {
+            "timestamp": "2025-10-19T14:55:52.762Z",
+            "fileName": "h:\\nifi-2.6.0\\logs\\nifi-app.log",
+            "fileType": ".log",
+            "linesAdded": 26039,
+            "linesRemoved": 0,
+            "projectName": "logs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-10-19T14:56:04.093Z",
+            "fileName": "h:\\nifi-2.6.0\\logs\\nifi-app.log",
+            "fileType": ".log",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "logs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-10-19T14:56:41.795Z",
+            "fileName": "h:\\nifi-2.6.0\\logs\\nifi-app.log",
+            "fileType": ".log",
+            "linesAdded": 1440,
+            "linesRemoved": 0,
+            "projectName": "logs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-10-19T14:57:27.196Z",
+            "fileName": "h:\\nifi-2.6.0\\logs\\nifi-app.log",
+            "fileType": ".log",
+            "linesAdded": 118,
+            "linesRemoved": 0,
+            "projectName": "logs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-10-19T14:57:49.411Z",
+            "fileName": "h:\\nifi-2.6.0\\logs\\nifi-app.log",
+            "fileType": ".log",
+            "linesAdded": 1224,
+            "linesRemoved": 0,
+            "projectName": "logs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-10-19T15:00:07.068Z",
+            "fileName": "h:\\nifi-2.6.0\\logs\\nifi-app.log",
+            "fileType": ".log",
+            "linesAdded": 295,
+            "linesRemoved": 0,
+            "projectName": "logs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "log"
+          }
+        ]
+      },
+      "languageStats": {
+        "log": 7
+      },
+      "changeFrequency": {
+        "14": 4,
+        "15": 3
+      },
+      "topFiles": [
+        "h:\\nifi-2.6.0\\logs\\nifi-app.log"
+      ],
+      "averageChangeSize": 4871.333333333333
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14,
+    15
+  ],
+  "mostUsedLanguages": [
+    "log"
+  ]
+}
