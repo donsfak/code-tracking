@@ -120,9 +120,9 @@
       "averageChangeSize": 4871.333333333333
     },
     "weather_insights_app": {
-      "totalLinesAdded": 376,
+      "totalLinesAdded": 417,
       "totalLinesRemoved": 93,
-      "totalActiveTime": 30,
+      "totalActiveTime": 32,
       "files": {
         "h:\\StudioProject\\weather_insights_app\\.env": [
           {
@@ -347,6 +347,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-10-19T17:21:47.305Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-10-19T17:21:47.737Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-10-19T17:22:40.701Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "kts"
           }
         ]
