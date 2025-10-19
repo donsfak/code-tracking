@@ -120,9 +120,9 @@
       "averageChangeSize": 4871.333333333333
     },
     "weather_insights_app": {
-      "totalLinesAdded": 129,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 350,
+      "totalLinesRemoved": 93,
+      "totalActiveTime": 30,
       "files": {
         "h:\\StudioProject\\weather_insights_app\\.env": [
           {
@@ -168,6 +168,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-19T16:11:31.777Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\weather_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\weather_insights_app\\lib\\models\\weather_model.dart": [
@@ -184,6 +198,20 @@
             },
             "duration": 2,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-19T16:11:31.763Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\models\\weather_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart": [
@@ -192,6 +220,20 @@
             "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
             "fileType": ".dart",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-19T16:11:31.734Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 57,
             "linesRemoved": 0,
             "projectName": "weather_insights_app",
             "content": {
@@ -216,6 +258,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-19T16:11:31.716Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart",
+            "fileType": ".dart",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\weather_insights_app\\lib\\main.dart": [
@@ -232,6 +288,50 @@
             },
             "duration": 3,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-19T16:11:31.694Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 93,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\pubspec.yaml": [
+          {
+            "timestamp": "2025-10-19T16:07:51.768Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-10-19T16:09:22.810Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yaml"
           }
         ]
       },

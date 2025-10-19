@@ -4,19 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 129                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 129                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Lines Added** (➕)   | 350                                          |
+| **Lines Removed** (➖) | 93                                        |
+| **Net Change** (↕)    | 257                |
+| **Active Time** (⌚)   | 30 minutes |
 
 
 ## Modified Files
 - **.env** (+2, -0)
-- **weather_service.dart** (+1, -0)
-- **weather_model.dart** (+1, -0)
-- **home_screen.dart** (+1, -0)
-- **weather_chart.dart** (+1, -0)
-- **main.dart** (+123, -0)
+- **weather_service.dart** (+19, -0)
+- **weather_model.dart** (+23, -0)
+- **home_screen.dart** (+58, -0)
+- **weather_chart.dart** (+30, -0)
+- **main.dart** (+123, -93)
+- **pubspec.yaml** (+95, -0)
 
 ## Visualizations
 
@@ -26,7 +27,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 2
-".dart" : 127
+".dart" : 346
+".yaml" : 95
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 2
-"16h" : 5
+"16h" : 12
 ```
 
 
-> **Last Updated:** 10/19/2025, 4:06:50 PM
+> **Last Updated:** 10/19/2025, 4:11:50 PM
