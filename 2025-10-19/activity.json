@@ -120,9 +120,9 @@
       "averageChangeSize": 4871.333333333333
     },
     "weather_insights_app": {
-      "totalLinesAdded": 4,
+      "totalLinesAdded": 129,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 11,
       "files": {
         "h:\\StudioProject\\weather_insights_app\\.env": [
           {
@@ -183,6 +183,54 @@
               "removed": []
             },
             "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart": [
+          {
+            "timestamp": "2025-10-19T16:03:53.309Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart": [
+          {
+            "timestamp": "2025-10-19T16:04:10.372Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\main.dart": [
+          {
+            "timestamp": "2025-10-19T16:06:22.755Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "dart"
           }
         ]
