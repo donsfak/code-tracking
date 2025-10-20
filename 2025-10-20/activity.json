@@ -3,8 +3,8 @@
   "projects": {
     "weather_insights_app": {
       "totalLinesAdded": 1655,
-      "totalLinesRemoved": 84,
-      "totalActiveTime": 81,
+      "totalLinesRemoved": 422,
+      "totalActiveTime": 86,
       "files": {
         "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts": [
           {
@@ -441,6 +441,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-20T01:55:55.403Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 185,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-20T01:57:09.866Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 153,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "dart"
           }
         ],
