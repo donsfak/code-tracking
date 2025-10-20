@@ -1,0 +1,80 @@
+{
+  "date": "2025-10-20",
+  "projects": {
+    "weather_insights_app": {
+      "totalLinesAdded": 130,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts": [
+          {
+            "timestamp": "2025-10-20T00:14:27.380Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "kts"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart": [
+          {
+            "timestamp": "2025-10-20T00:18:48.928Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-20T00:18:49.447Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "kts": 0,
+        "dart": 6
+      },
+      "changeFrequency": {
+        "0": 6
+      },
+      "topFiles": [
+        "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+        "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts"
+      ],
+      "averageChangeSize": 43.333333333333336
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "dart",
+    "kts"
+  ]
+}
