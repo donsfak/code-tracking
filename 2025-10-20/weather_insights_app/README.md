@@ -4,20 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 888                                          |
+| **Lines Added** (➕)   | 1157                                          |
 | **Lines Removed** (➖) | 83                                        |
-| **Net Change** (↕)    | 805                |
-| **Active Time** (⌚)   | 65 minutes |
+| **Net Change** (↕)    | 1074                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
 - **build.gradle.kts** (+41, -0)
-- **home_screen.dart** (+519, -64)
+- **home_screen.dart** (+681, -64)
 - **weather_service.dart** (+60, -16)
 - **pubspec.yaml** (+97, -2)
 - **weather_model.dart** (+140, -0)
 - **weather-welcome.json** (+1, -0)
 - **weather_chart.dart** (+30, -1)
+- **settings.json** (+27, -0)
+- **animated_weather_card.dart** (+80, -0)
 
 ## Visualizations
 
@@ -27,9 +29,9 @@
 pie showData
 title Lines changed by file type
 ".kts" : 41
-".dart" : 830
+".dart" : 1072
 ".yaml" : 99
-".json" : 1
+".json" : 28
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 23
-"01h" : 12
+"01h" : 21
 ```
 
 
-> **Last Updated:** 10/20/2025, 1:24:23 AM
+> **Last Updated:** 10/20/2025, 1:34:23 AM
