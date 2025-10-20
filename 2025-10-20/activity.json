@@ -2,9 +2,9 @@
   "date": "2025-10-20",
   "projects": {
     "weather_insights_app": {
-      "totalLinesAdded": 130,
+      "totalLinesAdded": 167,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 12,
       "files": {
         "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts": [
           {
@@ -49,6 +49,50 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-20T00:19:55.611Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\services\\weather_service.dart": [
+          {
+            "timestamp": "2025-10-20T00:21:29.086Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\weather_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-20T00:23:22.213Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\weather_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "dart"
           }
         ]
