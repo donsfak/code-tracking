@@ -1,0 +1,66 @@
+{
+  "date": "2025-10-28",
+  "projects": {
+    "projet_distribué": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\falib\\Desktop\\projet_distribué\\serveur.py": [
+          {
+            "timestamp": "2025-10-28T21:38:14.971Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\projet_distribué\\serveur.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "projet_distribué",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\falib\\Desktop\\projet_distribué\\client.java": [
+          {
+            "timestamp": "2025-10-28T21:40:54.017Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\projet_distribué\\client.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "projet_distribué",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0,
+        "java": 3
+      },
+      "changeFrequency": {
+        "21": 3
+      },
+      "topFiles": [
+        "c:\\Users\\falib\\Desktop\\projet_distribué\\serveur.py",
+        "c:\\Users\\falib\\Desktop\\projet_distribué\\client.java"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "java",
+    "py"
+  ]
+}
