@@ -3,7 +3,7 @@
   "projects": {
     "projet_distribué": {
       "totalLinesAdded": 109,
-      "totalLinesRemoved": 7,
+      "totalLinesRemoved": 9,
       "totalActiveTime": 4,
       "files": {
         "c:\\Users\\falib\\Desktop\\projet_distribué\\serveur.py": [
@@ -41,6 +41,20 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 7,
+            "projectName": "projet_distribué",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-28T22:16:32.212Z",
+            "fileName": "c:\\Users\\falib\\Desktop\\projet_distribué\\serveur.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "projet_distribué",
             "content": {
               "added": [],
