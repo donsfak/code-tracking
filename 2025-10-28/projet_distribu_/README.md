@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 109                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 109                |
+| **Lines Removed** (➖) | 7                                        |
+| **Net Change** (↕)    | 102                |
 | **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **serveur.py** (+55, -0)
+- **serveur.py** (+55, -7)
 - **client.java** (+54, -0)
 
 ## Visualizations
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 55
+".py" : 62
 ".java" : 54
 ```
 
@@ -31,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 2
-"22h" : 2
+"22h" : 3
 ```
 
 
-> **Last Updated:** 10/28/2025, 10:02:41 PM
+> **Last Updated:** 10/28/2025, 10:12:41 PM
