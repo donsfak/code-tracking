@@ -2,9 +2,9 @@
   "date": "2025-10-31",
   "projects": {
     "weather_insights_app": {
-      "totalLinesAdded": 2941,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 3152,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 13,
       "files": {
         "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart": [
           {
@@ -396,6 +396,34 @@
             },
             "duration": 0,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-31T19:26:35.509Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\weather_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-31T19:26:43.715Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\weather_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart": [
@@ -483,6 +511,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-31T19:26:17.917Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\models\\weather_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],
@@ -630,6 +672,98 @@
             },
             "duration": 0,
             "language": "example"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\services\\location_service.dart": [
+          {
+            "timestamp": "2025-10-31T19:25:09.730Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\location_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\services\\geocoding_service.dart": [
+          {
+            "timestamp": "2025-10-31T19:25:26.691Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\geocoding_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\services\\cache_service.dart": [
+          {
+            "timestamp": "2025-10-31T19:25:41.961Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\cache_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-31T19:25:51.853Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\cache_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\test\\weather_model_test.dart": [
+          {
+            "timestamp": "2025-10-31T19:26:58.783Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\test\\weather_model_test.dart",
+            "fileType": ".dart",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-10-31T19:27:09.546Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\test\\weather_model_test.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ]
       },
