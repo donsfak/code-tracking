@@ -1,0 +1,217 @@
+{
+  "date": "2025-10-31",
+  "projects": {
+    "weather_insights_app": {
+      "totalLinesAdded": 925,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart": [
+          {
+            "timestamp": "2025-10-31T14:16:13.964Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 426,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\android\\gradle.properties": [
+          {
+            "timestamp": "2025-10-31T14:16:13.855Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\android\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\pubspec.yaml": [
+          {
+            "timestamp": "2025-10-31T14:16:13.787Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts": [
+          {
+            "timestamp": "2025-10-31T14:16:13.820Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-10-31T14:17:04.108Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kts"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\android\\app\\build.gradle.kts": [
+          {
+            "timestamp": "2025-10-31T14:16:13.918Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\android\\app\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "kts"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\animated_weather_card.dart": [
+          {
+            "timestamp": "2025-10-31T14:16:14.115Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\animated_weather_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\services\\weather_service.dart": [
+          {
+            "timestamp": "2025-10-31T14:16:13.995Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\services\\weather_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart": [
+          {
+            "timestamp": "2025-10-31T14:16:14.084Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart",
+            "fileType": ".dart",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\models\\weather_model.dart": [
+          {
+            "timestamp": "2025-10-31T14:16:14.024Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\models\\weather_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\assets\\lottie\\weather-welcome.json": [
+          {
+            "timestamp": "2025-10-31T14:16:14.053Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\assets\\lottie\\weather-welcome.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 0,
+        "properties": 0,
+        "yaml": 0,
+        "kts": 1,
+        "json": 0
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "h:\\StudioProject\\weather_insights_app\\android\\build.gradle.kts",
+        "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+        "h:\\StudioProject\\weather_insights_app\\android\\gradle.properties",
+        "h:\\StudioProject\\weather_insights_app\\pubspec.yaml",
+        "h:\\StudioProject\\weather_insights_app\\android\\app\\build.gradle.kts"
+      ],
+      "averageChangeSize": 84.0909090909091
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 10,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "kts",
+    "dart",
+    "properties",
+    "yaml",
+    "json"
+  ]
+}
