@@ -1,0 +1,137 @@
+{
+  "date": "2025-11-01",
+  "projects": {
+    "weather_insights_app": {
+      "totalLinesAdded": 690,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "h:\\StudioProject\\weather_insights_app\\lib\\screens\\weather_details_screen.dart": [
+          {
+            "timestamp": "2025-11-01T00:23:06.239Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\weather_details_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart": [
+          {
+            "timestamp": "2025-11-01T00:23:28.553Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart",
+            "fileType": ".dart",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-11-01T00:23:29.083Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart",
+            "fileType": ".dart",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-11-01T00:23:52.487Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart",
+            "fileType": ".dart",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart": [
+          {
+            "timestamp": "2025-11-01T00:24:38.828Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 426,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-11-01T00:24:39.373Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-11-01T00:24:52.180Z",
+            "fileName": "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "weather_insights_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 6
+      },
+      "changeFrequency": {
+        "0": 6
+      },
+      "topFiles": [
+        "h:\\StudioProject\\weather_insights_app\\lib\\widgets\\weather_chart.dart",
+        "h:\\StudioProject\\weather_insights_app\\lib\\screens\\home_screen.dart",
+        "h:\\StudioProject\\weather_insights_app\\lib\\screens\\weather_details_screen.dart"
+      ],
+      "averageChangeSize": 98.57142857142857
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "dart"
+  ]
+}
