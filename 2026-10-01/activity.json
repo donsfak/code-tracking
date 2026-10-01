@@ -3,7 +3,7 @@
   "projects": {
     "kouma_backend": {
       "totalLinesAdded": 233,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 0,
       "files": {
         "/home/sfak55/Téléchargements/kouma_backend/app/api/routes.py": [
@@ -45,6 +45,20 @@
             "fileType": "unknown",
             "linesAdded": 35,
             "linesRemoved": 0,
+            "projectName": "kouma_backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-10-01T11:56:04.080Z",
+            "fileName": "/home/sfak55/Téléchargements/kouma_backend/.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "kouma_backend",
             "content": {
               "added": [],
