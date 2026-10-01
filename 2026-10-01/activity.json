@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-01",
+  "projects": {
+    "kouma_backend": {
+      "totalLinesAdded": 163,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/home/sfak55/Téléchargements/kouma_backend/app/api/routes.py": [
+          {
+            "timestamp": "2026-10-01T10:43:18.587Z",
+            "fileName": "/home/sfak55/Téléchargements/kouma_backend/app/api/routes.py",
+            "fileType": ".py",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "kouma_backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "/home/sfak55/Téléchargements/kouma_backend/app/api/routes.py"
+      ],
+      "averageChangeSize": 163
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
