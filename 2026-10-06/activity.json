@@ -2,9 +2,9 @@
   "date": "2026-10-06",
   "projects": {
     "Portofolio-main": {
-      "totalLinesAdded": 884,
+      "totalLinesAdded": 1090,
       "totalLinesRemoved": 43,
-      "totalActiveTime": 11,
+      "totalActiveTime": 12,
       "files": {
         "/home/sfak55/.config/Code/User/settings.json": [
           {
@@ -150,6 +150,36 @@
             },
             "duration": 4,
             "language": "ts"
+          }
+        ],
+        "/home/sfak55/Téléchargements/Portofolio-main/src/components/GithubStats.tsx": [
+          {
+            "timestamp": "2026-10-06T11:31:49.663Z",
+            "fileName": "/home/sfak55/Téléchargements/Portofolio-main/src/components/GithubStats.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 204,
+            "linesRemoved": 0,
+            "projectName": "Portofolio-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-06T11:31:51.030Z",
+            "fileName": "/home/sfak55/Téléchargements/Portofolio-main/src/components/GithubStats.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Portofolio-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
