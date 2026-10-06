@@ -2,9 +2,9 @@
   "date": "2026-10-06",
   "projects": {
     "Portofolio-main": {
-      "totalLinesAdded": 1090,
-      "totalLinesRemoved": 43,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 1164,
+      "totalLinesRemoved": 648,
+      "totalActiveTime": 17,
       "files": {
         "/home/sfak55/.config/Code/User/settings.json": [
           {
@@ -134,6 +134,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-06T11:56:33.096Z",
+            "fileName": "/home/sfak55/Téléchargements/Portofolio-main/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 605,
+            "projectName": "Portofolio-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ],
         "/home/sfak55/Téléchargements/Portofolio-main/src/data/portfolio.ts": [
@@ -149,6 +163,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-06T11:53:13.396Z",
+            "fileName": "/home/sfak55/Téléchargements/Portofolio-main/src/data/portfolio.ts",
+            "fileType": ".ts",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "Portofolio-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-06T11:57:13.719Z",
+            "fileName": "/home/sfak55/Téléchargements/Portofolio-main/src/data/portfolio.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Portofolio-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
