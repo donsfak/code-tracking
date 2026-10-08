@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-08",
+  "projects": {
+    "Portofolio-main": {
+      "totalLinesAdded": 667,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/home/sfak55/Téléchargements/Portofolio-main/src/data/portfolio.ts": [
+          {
+            "timestamp": "2026-10-08T22:09:29.640Z",
+            "fileName": "/home/sfak55/Téléchargements/Portofolio-main/src/data/portfolio.ts",
+            "fileType": ".ts",
+            "linesAdded": 151,
+            "linesRemoved": 0,
+            "projectName": "Portofolio-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/home/sfak55/Téléchargements/Portofolio-main/src/components/CaseStudyDataTour.tsx": [
+          {
+            "timestamp": "2026-10-08T22:11:16.348Z",
+            "fileName": "/home/sfak55/Téléchargements/Portofolio-main/src/components/CaseStudyDataTour.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 516,
+            "linesRemoved": 0,
+            "projectName": "Portofolio-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0,
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "22": 2
+      },
+      "topFiles": [
+        "/home/sfak55/Téléchargements/Portofolio-main/src/data/portfolio.ts",
+        "/home/sfak55/Téléchargements/Portofolio-main/src/components/CaseStudyDataTour.tsx"
+      ],
+      "averageChangeSize": 333.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts"
+  ]
+}
