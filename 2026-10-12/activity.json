@@ -2,7 +2,7 @@
   "date": "2026-10-12",
   "projects": {
     "backend": {
-      "totalLinesAdded": 12,
+      "totalLinesAdded": 51,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/home/sfak55/Téléchargements/KOUMAN-AI/backend/.env": [
+          {
+            "timestamp": "2026-10-12T20:57:51.104Z",
+            "fileName": "/home/sfak55/Téléchargements/KOUMAN-AI/backend/.env",
+            "fileType": "unknown",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
