@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-12",
+  "projects": {
+    "backend": {
+      "totalLinesAdded": 12,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/home/sfak55/.config/Code/User/settings.json": [
+          {
+            "timestamp": "2026-10-12T20:38:08.890Z",
+            "fileName": "/home/sfak55/.config/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "20": 0
+      },
+      "topFiles": [
+        "/home/sfak55/.config/Code/User/settings.json"
+      ],
+      "averageChangeSize": 12
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
